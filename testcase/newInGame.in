@@ -1,0 +1,21 @@
+new 4
+neighbours
+init
+0 0
+-1 -1
+new 5
+neighbours
+init
+0 0
+0 1
+-1 -1
+game 10
+switch 0 0
+new 2
+init
+0 0
+-1 -1
+game 1
+switch 1 1
+
+
