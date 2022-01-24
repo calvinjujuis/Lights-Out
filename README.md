@@ -17,3 +17,5 @@ switch x y | toggle (x, y)
 neighbours | print neighbours of each cell
 
 ## Sample Gameplay
+
+<img src="https://github.com/calvinjujuis/Lights-Out/blob/main/demo1.png" width="106" height="118"><img src="https://github.com/calvinjujuis/Lights-Out/blob/main/demo2.png" width="106" height="118">
